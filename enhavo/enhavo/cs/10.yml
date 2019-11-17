@@ -1,27 +1,87 @@
 ---
 - 
-  verŝajne: probably
+  demando: Does friendship make you more happy than love does?
+  rektatraduko:
+    - 
+      Ĉu: Whether
+    - 
+      amikeco: friendship
+    - 
+      pli: more
+    - 
+      feliĉigas: makes happy
+    - 
+      vin: you
+    - 
+      ol: than
+    - 
+      la: the
+    - 
+      amo: love
+    - '?'
 - 
-  tutsimple: simply
+  demando: How often do you write letters to your girlfriends in Italy?
+  rektatraduko:
+    - 
+      Kiel: How
+    - 
+      ofte: often
+    - 
+      vi: you
+    - 
+      skribas: write
+    - 
+      leterojn: letters
+    - 
+      al: to
+    - 
+      viaj: your
+    - 
+      amikinoj: friends
+    - 
+      en: in
+    - 
+      Italio: Italy
+    - '?'
 - 
-  neŭtraleco: neutrality
+  demando: Has the relationship between you and your teacher changed?
+  rektatraduko:
+    - 
+      Ĉu: Whether
+    - 
+      la: the
+    - 
+      rilato: relationship
+    - 
+      inter: between
+    - 
+      vi: you
+    - 
+      kaj: and
+    - 
+      via: your
+    - 
+      instruisto: teacher
+    - 
+      ŝanĝiĝis: changed
+    - '?'
 - 
-  tiurilate: in this regard
-- 
-  universaleco: universality
-- 
-  ebleco: possibility
-- 
-  partopreni: to take part
-- 
-  plejparte: majority
-- 
-  samtempe: at the same time
-- 
-  anstataŭigi: to replace
-- 
-  elĵeti: to throw out
-- 
-  finiĝi: to end
-- 
-  informiĝi: to inform oneself
+  demando: Do you now already know Esperanto well enough?
+  rektatraduko:
+    - 
+      Ĉu: Whether
+    - 
+      vi: you
+    - 
+      nun: now
+    - 
+      jam: already
+    - 
+      scias: know
+    - 
+      Esperanton: Esperanto
+    - 
+      sufiĉe: enough
+    - 
+      bone: well
+    - '?'

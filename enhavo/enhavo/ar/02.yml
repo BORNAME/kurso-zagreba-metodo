@@ -1,117 +1,41 @@
 ---
 - 
-  demando: What was your old home like?
-  rektatraduko:
-    - 
-      Kia: What like
-    - 
-      estis: was
-    - 
-      via: your
-    - 
-      malnova: old
-    - 
-      hejmo: home
-    - '?'
+  eniri:
+    - to go in
+    - to enter
 - 
-  demando: Which books did you read, and were they good?
-  rektatraduko:
-    - 
-      Kiujn: Which
-    - 
-      librojn: books
-    - 
-      vi: you
-    - 
-      legis: did read
-    - 
-      kaj: and
-    - 
-      ĉu: whether
-    - 
-      ili: they
-    - 
-      estas: are
-    - 
-      bonaj: good
-    - '?'
+  enhavo:
+    - contents
+    - content
 - 
-  demando: "What did Anna and Mark do in Marks little room?"
-  rektatraduko:
-    - 
-      Kion: What
-    - 
-      faris: did do
-    - 
-      Anna: Anna
-    - 
-      kaj: and
-    - 
-      Marko: Mark
-    - 
-      en: in
-    - 
-      la: the
-    - 
-      malgranda: little
-    - 
-      ĉambro: room
-    - 
-      de: of
-    - 
-      Marko: Mark
-    - '?'
+  kunsido:
+    - meeting
+    - session
 - 
-  demando: Do you like reading books about love?
-  rektatraduko:
-    - 
-      Ĉu: Whether
-    - 
-      vi: you
-    - 
-      ŝatas: like
-    - 
-      legi: to read
-    - 
-      librojn: books
-    - 
-      pri: about
-    - 
-      amo: love
-    - '?'
+  malbona: bad
 - 
-  demando: Who will go with you to your home?
-  rektatraduko:
-    - 
-      Kiu: Who
-    - 
-      iros: will go
-    - 
-      kun: with
-    - 
-      vi: you
-    - 
-      al: to
-    - 
-      via: your
-    - 
-      hejmo: home
-    - '?'
+  kunveno:
+    - meeting
+    - assembly
 - 
-  demando: "What are your girl-friend's eyes like?"
-  rektatraduko:
-    - 
-      Kiaj: What like
-    - 
-      estas: are
-    - 
-      la: the
-    - 
-      okuloj: eyes
-    - 
-      de: of
-    - 
-      via: your
-    - 
-      amikino: girl-friend
-    - '?'
+  malfacila: difficult
+- 
+  maljuna: old
+- 
+  gepatroj: parents
+- 
+  alveni: arrive
+- 
+  bonvena:
+    - welcome
+    - welcoming
+- 
+  gefratoj: siblings
+- 
+  trinkmono: tip
+- 
+  malami: to hate
+- 
+  kunlabori:
+    - to collaborate
+    - to work together

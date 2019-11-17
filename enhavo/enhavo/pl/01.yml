@@ -1,94 +1,29 @@
 ---
 - 
-  demando: Who is your female friend?
-  rektatraduko:
-    - 
-      Kiu: Who
-    - 
-      estas: is
-    - 
-      via: your
-    - 
-      amikino: female friend
-    - '?'
+  amikino:
+    - friend
+    - female friend
 - 
-  demando: Is your friend Anna now writing in the room?
-  rektatraduko:
-    - 
-      Ĉu: Whether
-    - 
-      via: your
-    - 
-      amikino: friend
-    - 
-      Anna: Anna
-    - 
-      skribas: writes
-    - 
-      nun: now
-    - 
-      en: in
-    - 
-      la: the
-    - 
-      ĉambro: room
-    - '?'
+  labortablo: work bench
 - 
-  demando: Does the friend of your father work in a hotel?
-  rektatraduko:
-    - 
-      Ĉu: Whether
-    - 
-      la: the
-    - 
-      amiko: friend
-    - 
-      de: of
-    - 
-      via: your
-    - 
-      patro: father
-    - 
-      laboras: works
-    - 
-      en: in
-    - 
-      hotelo: hotel
-    - '?'
+  esperantistino:
+    - Esperantist
+    - female Esperantist
 - 
-  demando: What is on the work-bench in our room?
-  rektatraduko:
-    - 
-      Kio: What
-    - 
-      estas: is
-    - 
-      sur: 'on'
-    - 
-      la: the
-    - 
-      labortablo: work-bench
-    - 
-      en: in
-    - 
-      nia: our
-    - 
-      ĉambro: room
-    - '?'
+  instruisto: teacher
 - 
-  demando: Is there an Esperanto textbook on your table?
-  rektatraduko:
-    - 
-      Ĉu: Whether
-    - 
-      Esperanto-lernolibro: Esperanto textbook
-    - 
-      estas: is
-    - 
-      sur: 'on'
-    - 
-      via: your
-    - 
-      tablo: table
-    - '?'
-
+  hotelĉambro: hotel room
+- 
+  enskribi:
+    - to register
+    - to inscribe
+    - to enlist
+- 
+  skribotablo: desk
+- 
+  lingvisto:
+    - linguist
+- 
+  laboristino:
+    - worker
+    - female worker

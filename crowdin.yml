@@ -1,0 +1,6 @@
+files:
+  - source: /enhavo/tradukenda/en/*/*/*.yml
+    ignore:
+      - /enhavo/tradukenda/en/enkonduko.md
+      - /enhavo/tradukenda/en/post.md
+    translation: /enhavo/tradukenda/%two_letters_code%

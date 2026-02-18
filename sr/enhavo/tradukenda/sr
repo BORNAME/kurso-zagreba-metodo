@@ -1,51 +1,57 @@
 - 
-  demando: Does friendship make you more happy than love does?
+  demando: Who is your female friend?
   rektatraduko:
-    - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
-    - la: the
-    - amo: love
-    - '?'
-- 
-  demando: How often do you write letters to your girlfriends in Italy?
-  rektatraduko:
-    - Kiel: How
-    - ofte: often
-    - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
-    - en: in
-    - Italio: Italy
-    - '?'
-- 
-  demando: Has the relationship between you and your teacher changed?
-  rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
+    - Kiu: Who
+    - estas: is
     - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
+    - amikino: female friend
     - '?'
 - 
-  demando: Do you now already know Esperanto well enough?
+  demando: Is your friend Anna now writing in the room?
   rektatraduko:
     - Ĉu: Whether
-    - vi: you
+    - via: your
+    - amikino: female friend
+    - Anna: Anna
+    - skribas: writes
     - nun: now
-    - jam: already
-    - scias: know
-    - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
+    - en: in
+    - la: the
+    - ĉambro: room
     - '?'
+- 
+  demando: Does the friend of your father work in a hotel?
+  rektatraduko:
+    - Ĉu: Whether
+    - la: the
+    - amiko: friend
+    - de: of
+    - via: your
+    - patro: father
+    - laboras: works
+    - en: in
+    - hotelo: hotel
+    - '?'
+- 
+  demando: What is on the work-bench in our room?
+  rektatraduko:
+    - Kio: What
+    - estas: is
+    - sur: 'on'
+    - la: the
+    - labortablo: work-bench
+    - en: in
+    - nia: our
+    - ĉambro: room
+    - '?'
+- 
+  demando: Is there an Esperanto textbook on your table?
+  rektatraduko:
+    - Ĉu: Whether
+    - Esperanto-lernolibro: Esperanto-textbook
+    - estas: is
+    - sur: 'on'
+    - via: your
+    - tablo: table
+    - '?'
+

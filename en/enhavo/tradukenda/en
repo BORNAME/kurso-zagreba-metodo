@@ -1,77 +1,86 @@
 - 
-  demando: Who had the book that you were waiting for for more than 2 years?
+  demando: Who is going to clean the kitchen after lunch?
   rektatraduko:
     - Kiu: Who
-    - havis: had
+    - purigos: is going to clean
     - la: the
-    - libron: book
-    - ','
-    - kiun: that
-    - vi: you
-    - atendis: were waiting
-    - pli: more
-    - ol: than
-    - du: two
-    - jarojn: years
+    - kuirejon: kitchen
+    - post: after
+    - la: the
+    - tagmanĝo: lunch
     - '?'
 - 
-  demando: Do you want me to show you the photo which is dearest to me?
+  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
   rektatraduko:
-    - Ĉu: Whether
+    - Kion: What
     - vi: you
     - volas: want
+    - trinki: to drink
+    - ':'
+    - teon: tea
     - ','
-    - ke: that
-    - mi: I
-    - montru: show
-    - al: to
+    - iom: some
+    - da: of
+    - kafo: coffee
+    - aŭ: or
+    - ĉu: whether
     - vi: you
-    - mian: my
-    - plej: most
-    - karan: dear
-    - foton: photo
+    - volas: want
+    - nenion: nothing
     - '?'
 - 
-  demando: Where did you buy that garment?
+  demando: Why did you so suddenly decide to renovate your small room?
   rektatraduko:
-    - Kie: Where
+    - Kial: Why
     - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - vestaĵon: garment
+    - tiel: so
+    - subite: suddenly
+    - decidis: did decide
+    - renovigi: to renovate
+    - vian: your
+    - ĉambreton: small room
     - '?'
 - 
-  demando: Where will you go on Sunday if it is a sunny day?
+  demando: To whom did you give the clean wine glasses?
   rektatraduko:
-    - Kien: Where
+    - Al: To
+    - kiu: whom
     - vi: you
-    - iros: will go
-    - dimanĉe: on Sunday
-    - ','
-    - se: if
-    - estos: will be
-    - suna: sunny
-    - tago: day
+    - donis: did give
+    - la: the
+    - purajn: clean
+    - glasojn: glasses
+    - por: for
+    - la: the
+    - vino: wine
     - '?'
 - 
-  demando: Did your brother already leave?
+  demando: Against whom did your sports club play two weeks ago?
+  rektatraduko:
+    - Kontraŭ: Against
+    - kiu: whom
+    - ludis: did play
+    - via: your
+    - sportklubo: sports club
+    - antaŭ: before
+    - du: two
+    - semajnoj: weeks
+    - '?'
+- 
+  demando: Do you often see the policeman who is living in the apartment above you?
   rektatraduko:
     - Ĉu: Whether
-    - via: your
-    - frato: brother
-    - jam: already
-    - ekiris: did leave
-    - '?'
-- 
-  demando: Where is the water which you have brought yourself?
-  rektatraduko:
-    - Kie: Where
-    - estas: is
-    - la: the
-    - akvo: water
-    - ','
-    - kiun: which
     - vi: you
-    - mem: yourself
-    - kunportis: have brought
+    - ofte: often
+    - vidas: see
+    - la: the
+    - policiston: policeman
+    - ','
+    - kiu: who
+    - loĝas: lives
+    - en: in
+    - la: the
+    - loĝejo: apartment
+    - super: above
+    - vi: you
     - '?'

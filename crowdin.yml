@@ -3,4 +3,4 @@ files:
     ignore:
       - /enhavo/tradukenda/en/enkonduko.md
       - /enhavo/tradukenda/en/post.md
-    translation: enhavo/tradukenda/%locale%/%original_path%
+    translation: enhavo/tradukenda/%two_letters_code%/

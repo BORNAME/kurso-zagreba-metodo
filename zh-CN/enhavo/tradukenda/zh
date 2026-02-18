@@ -1,77 +1,57 @@
 - 
-  demando: Do waiters in large hotels understand a lot of languages?
+  demando: Who is your female friend?
   rektatraduko:
-    - Ĉu: Whether
-    - kelneroj: waiters
-    - en: in
-    - grandaj: big
-    - hoteloj: hotels
-    - komprenas: understand
-    - multajn: many
-    - lingvojn: languages
+    - Kiu: Who
+    - estas: is
+    - via: your
+    - amikino: female friend
     - '?'
 - 
-  demando: Do you know that Anna likes a new song about a poor man and a beautiful girl?
+  demando: Is your friend Anna now writing in the room?
   rektatraduko:
     - Ĉu: Whether
-    - vi: you
-    - scias: know
-    - ','
-    - ĉu: whether
+    - via: your
+    - amikino: female friend
     - Anna: Anna
-    - ŝatas: likes
+    - skribas: writes
+    - nun: now
+    - en: in
     - la: the
-    - novan: new
-    - kanton: song
-    - pri: about
-    - malriĉulo: a poor man
-    - kaj: and
-    - belulino: a beautiful girl
+    - ĉambro: room
     - '?'
 - 
-  demando: Where did you see an old man and a young man who were carrying a large table?
-  rektatraduko:
-    - Kie: Where
-    - vi: you
-    - vidis: did see
-    - la: the
-    - maljunulon: old man
-    - kaj: and
-    - la: the
-    - junulon: young man
-    - ','
-    - kiuj: who
-    - portis: were carrying
-    - grandan: big
-    - tablon: table
-    - '?'
-- 
-  demando: How did it happen that you again came to us without brothers-and-sisters?
-  rektatraduko:
-    - Kiel: How
-    - okazis: did it happen
-    - ','
-    - ke: that
-    - vi: you
-    - denove: again
-    - venis: came
-    - al: to
-    - ni: us
-    - sen: without
-    - gefratoj: brothers-and-sisters
-    - '?'
-- 
-  demando: Can you learn Esperanto quite quickly with-the-help-of the new textbook?
+  demando: Does the friend of your father work in a hotel?
   rektatraduko:
     - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - per: with-the-help-of
     - la: the
-    - nova: new
-    - lernolibro: textbook
-    - sufiĉe: quite
-    - rapide: quickly
-    - lerni: learn
-    - Esperanton: Esperanto
+    - amiko: friend
+    - de: of
+    - via: your
+    - patro: father
+    - laboras: works
+    - en: in
+    - hotelo: hotel
     - '?'
+- 
+  demando: What is on the work-bench in our room?
+  rektatraduko:
+    - Kio: What
+    - estas: is
+    - sur: 'on'
+    - la: the
+    - labortablo: work-bench
+    - en: in
+    - nia: our
+    - ĉambro: room
+    - '?'
+- 
+  demando: Is there an Esperanto textbook on your table?
+  rektatraduko:
+    - Ĉu: Whether
+    - Esperanto-lernolibro: Esperanto-textbook
+    - estas: is
+    - sur: 'on'
+    - via: your
+    - tablo: table
+    - '?'
+

@@ -1,54 +1,57 @@
 - 
-  demando: Can you bring along my sister's medicine?
-  rektatraduko:
-    - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
-    - '?'
-- 
-  demando: When did you buy that musical instrument?
-  rektatraduko:
-    - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: musical instrument
-    - '?'
-- 
-  demando: Who used my key the last time?
+  demando: Who is your female friend?
   rektatraduko:
     - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
+    - estas: is
+    - via: your
+    - amikino: female friend
     - '?'
 - 
-  demando: Did you travel in Venice also by gondola?
+  demando: Is your friend Anna now writing in the room?
   rektatraduko:
     - Ĉu: Whether
-    - vi: you
+    - via: your
+    - amikino: female friend
+    - Anna: Anna
+    - skribas: writes
+    - nun: now
     - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - la: the
+    - ĉambro: room
     - '?'
 - 
-  demando: Will you be able to fall asleep when it becomes quiet?
+  demando: Does the friend of your father work in a hotel?
   rektatraduko:
     - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
-    - ','
-    - kiam: when
-    - silentiĝis: became quiet
+    - la: the
+    - amiko: friend
+    - de: of
+    - via: your
+    - patro: father
+    - laboras: works
+    - en: in
+    - hotelo: hotel
     - '?'
+- 
+  demando: What is on the work-bench in our room?
+  rektatraduko:
+    - Kio: What
+    - estas: is
+    - sur: 'on'
+    - la: the
+    - labortablo: work-bench
+    - en: in
+    - nia: our
+    - ĉambro: room
+    - '?'
+- 
+  demando: Is there an Esperanto textbook on your table?
+  rektatraduko:
+    - Ĉu: Whether
+    - Esperanto-lernolibro: Esperanto-textbook
+    - estas: is
+    - sur: 'on'
+    - via: your
+    - tablo: table
+    - '?'
+

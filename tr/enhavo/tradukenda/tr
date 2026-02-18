@@ -1,64 +1,72 @@
 - 
-  demando: Can you learn calmly when someone is singing joyfully?
+  demando: Do you want me to show you my newest book?
   rektatraduko:
     - Ĉu: Whether
     - vi: you
-    - povas: can
-    - trankvile: calmly
-    - lerni: learn
+    - deziras: wish
     - ','
-    - dum: while
-    - iu: someone
-    - ĝoje: joyfully
-    - kantas: sings
-    - '?'
-- 
-  demando: Who knows when and where we will see each other again?
-  rektatraduko:
-    - Kiu: Who
-    - scias: knows
-    - ','
-    - kiam: when
-    - kaj: and
-    - kie: where
-    - ni: we
-    - revidos: will see again
-    - nin: each other
-    - '?'
-- 
-  demando: What time is it now?
-  rektatraduko:
-    - Kioma: How many'eth
-    - horo: hour
-    - estas: is
-    - nun: now
-    - '?'
-- 
-  demando: Did someone help you open the door of the old house?
-  rektatraduko:
-    - Ĉu: Whether
-    - iu: someone
-    - helpis: did help
+    - ke: that
+    - mi: I
+    - montru: show
     - al: to
     - vi: you
-    - malfermi: open
-    - la: the
-    - pordon: door
-    - de: of
-    - la: the
-    - malnova: old
-    - domo: house
+    - mian: my
+    - plej: most
+    - novan: new
+    - libron: book
     - '?'
 - 
-  demando: Why do you not have time to listen to me longer?
+  demando: What do you want for breakfast tomorrow?
   rektatraduko:
-    - Kial: Why
+    - Kion: What
     - vi: you
-    - ne: not
-    - havas: have
-    - tempon: time
-    - aŭskulti: to listen
+    - volas: want
+    - morgaŭ: tomorrow
+    - matenmanĝi: eat breakfast
+    - '?'
+- 
+  demando: "When will Mark arrive, at five or at eight o'clock?"
+  rektatraduko:
+    - Kiam: When
+    - Marko: Mark
+    - alvenos: will arrive
+    - ','
+    - je: at
+    - la: the
+    - kvina: fifth
+    - aŭ: or
+    - je: at
+    - la: the
+    - oka: eighth
+    - horo: hour
+    - '?'
+- 
+  demando: When did you notice that the whole family calls me benefactor?
+  rektatraduko:
+    - Kiam: When
+    - vi: you
+    - rimarkis: did notice
+    - ','
+    - ke: that
+    - la: the
+    - tuta: whole
+    - familio: family
+    - nomas: calls
     - min: me
-    - pli: more
-    - longe: long
+    - bonfarulo: benefactor
+    - '?'
+- 
+  demando: Was the booklet which I sent you useful to you?
+  rektatraduko:
+    - Ĉu: Whether
+    - la: the
+    - libreto: booklet
+    - estis: was
+    - utila: useful
+    - al: to
+    - vi: you
+    - ','
+    - kiun: which
+    - mi: I
+    - sendis: sent
     - '?'

@@ -1,5 +1,5 @@
 files:
-  - source: /enhavo/tradukenda/en/*/*/*.*
+  - source: /enhavo/tradukenda/en/ekzercoj/traduku/*.yml
     ignore:
       - /enhavo/tradukenda/en/enkonduko.md
       - /enhavo/tradukenda/en/post.md

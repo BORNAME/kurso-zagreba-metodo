@@ -1,75 +1,51 @@
 - 
-  demando: What could delight your parents most of all?
+  demando: Does friendship make you more happy than love does?
   rektatraduko:
-    - Kio: What
-    - povus: could
-    - plej: most
-    - ĝojigi: delight
-    - viajn: your
-    - gepatrojn: parents
+    - Ĉu: Whether
+    - amikeco: friendship
+    - pli: more
+    - feliĉigas: makes happy
+    - vin: you
+    - ol: than
+    - la: the
+    - amo: love
     - '?'
 - 
-  demando: If only you wanted to go to the city center after school!
+  demando: How often do you write letters to your girlfriends in Italy?
   rektatraduko:
-    - Se: If
-    - almenaŭ: at least (if only)
+    - Kiel: How
+    - ofte: often
     - vi: you
-    - post: after
-    - la: the
-    - lernado: learning
-    - irus: would go
-    - kun: with
-    - mi: me
-    - en: into
-    - la: the
-    - urbocentron: city center
-    - '!'
+    - skribas: write
+    - leterojn: letters
+    - al: to
+    - viaj: your
+    - amikinoj: friends
+    - en: in
+    - Italio: Italy
+    - '?'
 - 
-  demando: Where would you like to travel to if you had enough money and time?
+  demando: Has the relationship between you and your teacher changed?
   rektatraduko:
-    - Kien: Where to
+    - Ĉu: Whether
+    - la: the
+    - rilato: relationship
+    - inter: between
     - vi: you
-    - dezirus: would wish
-    - vojaĝi: to travel
-    - ','
-    - se: if
-    - vi: you
-    - havus: would have
-    - sufiĉe: enough
-    - da: of
-    - mono: money
     - kaj: and
-    - tempo: time
+    - via: your
+    - instruisto: teacher
+    - ŝanĝiĝis: changed
     - '?'
 - 
-  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
+  demando: Do you now already know Esperanto well enough?
   rektatraduko:
     - Ĉu: Whether
     - vi: you
-    - planas: plan
-    - veturi: to travel
-    - al: to
-    - Parizo: Paris
-    - per: by
-    - aŭto: car
-    - aŭ: or
-    - ĉu: whether
-    - ne: not
-    - ŝajnas: seem
-    - multe: much
-    - pli: more
-    - bone: good
-    - per: by
-    - vagonaro: train
-    - '?'
-- 
-  demando: Why do different people explain identical ideas differently?
-  rektatraduko:
-    - Kial: Why
-    - diversaj: different
-    - homoj: people
-    - klarigas: explain
-    - samajn: identical
-    - ideojn: ideas
-    - diversmaniere: differently
+    - nun: now
+    - jam: already
+    - scias: know
+    - Esperanton: Esperanto
+    - sufiĉe: enough
+    - bone: well
     - '?'

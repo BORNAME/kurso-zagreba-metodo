@@ -1,54 +1,68 @@
 - 
-  demando: Can you bring along my sister's medicine?
+  demando: Will we see each other again, no matter where or when?
   rektatraduko:
     - Ĉu: Whether
-    - vi: you
-    - povas: can
-    - kunporti: bring along
-    - la: the
-    - sanigilon: medicine
-    - de: of
-    - mia: my
-    - fratino: sister
+    - ni: we
+    - revidos: will see again
+    - nin: each other
+    - ','
+    - kie: where
+    - ajn: '-ever'
+    - kaj: and
+    - kiam: when
+    - ajn: '-ever'
     - '?'
 - 
-  demando: When did you buy that musical instrument?
+  demando: When will I get back the other half of the books?
   rektatraduko:
     - Kiam: When
-    - vi: you
-    - aĉetis: did buy
-    - tiun: that
-    - muzikilon: musical instrument
+    - mi: I
+    - rericevos: will get back
+    - la: the
+    - alian: other
+    - duonon: half
+    - de: of
+    - la: the
+    - libroj: books
     - '?'
 - 
-  demando: Who used my key the last time?
-  rektatraduko:
-    - Kiu: Who
-    - laste: last time
-    - uzis: used
-    - mian: my
-    - ŝlosilon: key
-    - '?'
-- 
-  demando: Did you travel in Venice also by gondola?
+  demando: Will you need more than a quarter of the year for those jobs?
   rektatraduko:
     - Ĉu: Whether
     - vi: you
-    - en: in
-    - Venecio: Venice
-    - veturis: did travel
-    - ankaŭ: also
-    - per: by
-    - gondolo: gondola
+    - bezonos: will need
+    - pli: more
+    - ol: than
+    - kvaronan: quarter
+    - jaron: year
+    - por: for
+    - tiuj: those
+    - laboroj: jobs
     - '?'
 - 
-  demando: Will you be able to fall asleep when it becomes quiet?
+  demando: Why is it that the colder it is, the longer we wait?
   rektatraduko:
-    - Ĉu: Whether
-    - vi: you
-    - povos: will be able
-    - ekdormi: to fall asleep
+    - Kial: Why
+    - estas: is
+    - des: the
+    - pli: more
+    - malvarma: cold
     - ','
-    - kiam: when
-    - silentiĝis: became quiet
+    - ju: the
+    - pli: more
+    - longe: long
+    - ni: we
+    - atendas: wait
+    - '?'
+- 
+  demando: Would you be happy with any man?
+  rektatraduko:
+    - Ĉu: Whether
+    - vi: you
+    - estus: would be
+    - kontenta: happy
+    - kun: with
+    - iu: any
+    - ajn: ever
+    - viro: man
     - '?'

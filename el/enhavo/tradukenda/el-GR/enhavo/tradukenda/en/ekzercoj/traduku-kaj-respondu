@@ -1,51 +1,54 @@
 - 
-  demando: Does friendship make you more happy than love does?
+  demando: Can you bring along my sister's medicine?
   rektatraduko:
     - Ĉu: Whether
-    - amikeco: friendship
-    - pli: more
-    - feliĉigas: makes happy
-    - vin: you
-    - ol: than
+    - vi: you
+    - povas: can
+    - kunporti: bring along
     - la: the
-    - amo: love
+    - sanigilon: medicine
+    - de: of
+    - mia: my
+    - fratino: sister
     - '?'
 - 
-  demando: How often do you write letters to your girlfriends in Italy?
+  demando: When did you buy that musical instrument?
   rektatraduko:
-    - Kiel: How
-    - ofte: often
+    - Kiam: When
     - vi: you
-    - skribas: write
-    - leterojn: letters
-    - al: to
-    - viaj: your
-    - amikinoj: friends
+    - aĉetis: did buy
+    - tiun: that
+    - muzikilon: musical instrument
+    - '?'
+- 
+  demando: Who used my key the last time?
+  rektatraduko:
+    - Kiu: Who
+    - laste: last time
+    - uzis: used
+    - mian: my
+    - ŝlosilon: key
+    - '?'
+- 
+  demando: Did you travel in Venice also by gondola?
+  rektatraduko:
+    - Ĉu: Whether
+    - vi: you
     - en: in
-    - Italio: Italy
+    - Venecio: Venice
+    - veturis: did travel
+    - ankaŭ: also
+    - per: by
+    - gondolo: gondola
     - '?'
 - 
-  demando: Has the relationship between you and your teacher changed?
-  rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - rilato: relationship
-    - inter: between
-    - vi: you
-    - kaj: and
-    - via: your
-    - instruisto: teacher
-    - ŝanĝiĝis: changed
-    - '?'
-- 
-  demando: Do you now already know Esperanto well enough?
+  demando: Will you be able to fall asleep when it becomes quiet?
   rektatraduko:
     - Ĉu: Whether
     - vi: you
-    - nun: now
-    - jam: already
-    - scias: know
-    - Esperanton: Esperanto
-    - sufiĉe: enough
-    - bone: well
+    - povos: will be able
+    - ekdormi: to fall asleep
+    - ','
+    - kiam: when
+    - silentiĝis: became quiet
     - '?'

@@ -1,8 +1,13 @@
-ant: present active
-int: past active
-ont: future active
-unt: conditional active
-at: present passive
-it: past passive
-ot: future passive
-ut: conditional passive
+ajn:
+- any
+- at all
+- '-ever'
+des: the (more, less)
+jen: here is
+ju: the (more, less)
+mem: self
+ne:
+- 'no'
+- not
+ĉi: this
+ĉu: whether (starts questions)

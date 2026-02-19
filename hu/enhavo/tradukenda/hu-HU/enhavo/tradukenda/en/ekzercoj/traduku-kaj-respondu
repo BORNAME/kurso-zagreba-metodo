@@ -1,86 +1,75 @@
 - 
-  demando: Who is going to clean the kitchen after lunch?
+  demando: What could delight your parents most of all?
   rektatraduko:
-    - Kiu: Who
-    - purigos: is going to clean
-    - la: the
-    - kuirejon: kitchen
+    - Kio: What
+    - povus: could
+    - plej: most
+    - ĝojigi: delight
+    - viajn: your
+    - gepatrojn: parents
+    - '?'
+- 
+  demando: If only you wanted to go to the city center after school!
+  rektatraduko:
+    - Se: If
+    - almenaŭ: at least (if only)
+    - vi: you
     - post: after
     - la: the
-    - tagmanĝo: lunch
-    - '?'
+    - lernado: learning
+    - irus: would go
+    - kun: with
+    - mi: me
+    - en: into
+    - la: the
+    - urbocentron: city center
+    - '!'
 - 
-  demando: "What do you want to drink: tea, some coffee or do you not want anything?"
+  demando: Where would you like to travel to if you had enough money and time?
   rektatraduko:
-    - Kion: What
+    - Kien: Where to
     - vi: you
-    - volas: want
-    - trinki: to drink
-    - ':'
-    - teon: tea
+    - dezirus: would wish
+    - vojaĝi: to travel
     - ','
-    - iom: some
+    - se: if
+    - vi: you
+    - havus: would have
+    - sufiĉe: enough
     - da: of
-    - kafo: coffee
-    - aŭ: or
-    - ĉu: whether
-    - vi: you
-    - volas: want
-    - nenion: nothing
+    - mono: money
+    - kaj: and
+    - tempo: time
     - '?'
 - 
-  demando: Why did you so suddenly decide to renovate your small room?
-  rektatraduko:
-    - Kial: Why
-    - vi: you
-    - tiel: so
-    - subite: suddenly
-    - decidis: did decide
-    - renovigi: to renovate
-    - vian: your
-    - ĉambreton: small room
-    - '?'
-- 
-  demando: To whom did you give the clean wine glasses?
-  rektatraduko:
-    - Al: To
-    - kiu: whom
-    - vi: you
-    - donis: did give
-    - la: the
-    - purajn: clean
-    - glasojn: glasses
-    - por: for
-    - la: the
-    - vino: wine
-    - '?'
-- 
-  demando: Against whom did your sports club play two weeks ago?
-  rektatraduko:
-    - Kontraŭ: Against
-    - kiu: whom
-    - ludis: did play
-    - via: your
-    - sportklubo: sports club
-    - antaŭ: before
-    - du: two
-    - semajnoj: weeks
-    - '?'
-- 
-  demando: Do you often see the policeman who is living in the apartment above you?
+  demando: Are you planning to travel to Paris by car or does it not seem much better by train?
   rektatraduko:
     - Ĉu: Whether
     - vi: you
-    - ofte: often
-    - vidas: see
-    - la: the
-    - policiston: policeman
-    - ','
-    - kiu: who
-    - loĝas: lives
-    - en: in
-    - la: the
-    - loĝejo: apartment
-    - super: above
-    - vi: you
+    - planas: plan
+    - veturi: to travel
+    - al: to
+    - Parizo: Paris
+    - per: by
+    - aŭto: car
+    - aŭ: or
+    - ĉu: whether
+    - ne: not
+    - ŝajnas: seem
+    - multe: much
+    - pli: more
+    - bone: good
+    - per: by
+    - vagonaro: train
+    - '?'
+- 
+  demando: Why do different people explain identical ideas differently?
+  rektatraduko:
+    - Kial: Why
+    - diversaj: different
+    - homoj: people
+    - klarigas: explain
+    - samajn: identical
+    - ideojn: ideas
+    - diversmaniere: differently
     - '?'

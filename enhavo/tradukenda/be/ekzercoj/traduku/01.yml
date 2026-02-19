@@ -9,16 +9,11 @@
 - hotelĉambro:
   - гасцінічны нумар
   - гасцінічны пакой
-  - гатэльны пакой
   - гатэльны нумар
+  - гатэльны пакой
 - enskribi: 
   - запiсаць
   - упiсаць
-- skribotablo:
-  - письмовы стол
-  - парта
-- lingvisto: 
-  - лiнгвiст
-- laboristino: 
-  - працоўнiк
-  - працаўнiца
+- skribotablo: пісьмовы стол
+- lingvisto: лiнгвiст
+- laboristino: працаўнiца
